@@ -1,4 +1,4 @@
-/.quarto/
-/_site/
-/.vscode/
-/.venv/
+.quarto/
+_site/
+.vscode/
+.venv/
